@@ -7,8 +7,6 @@ import org.springframework.stereotype.Component;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 /**
  * This class runs the process for the application by coordinating with adapter and service classes.
